@@ -8626,7 +8626,7 @@
 
         props: {
             duration: Number,
-            animation: String
+            animation: Boolean
         },
 
         data: {
